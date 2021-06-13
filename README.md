@@ -1,4 +1,4 @@
-#SMLoadr
+# SMLoadr (discontinued)
 > A streaming music downloader.
 SMLoadr is a program for downloading music from streaming music services.
 

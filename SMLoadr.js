@@ -25,7 +25,7 @@ let configService = new ConfigService(configFile);
 const EncryptionService = require('./src/service/EncryptionService');
 let encryptionService = new EncryptionService();
 
-let DOWNLOAD_DIR = 'DOWNLOADS/';
+let DOWNLOAD_DIR = '/Volumes/Gui/DOWNLOADS/';
 let PLAYLIST_DIR = 'PLAYLISTS/';
 let PLAYLIST_FILE_ITEMS = {};
 
